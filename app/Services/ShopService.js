@@ -20,6 +20,7 @@ class ShopService {
             } else {
                 alert("Not Enough Money, you're poor!!")
             }
+            // totalUpCart() & then new function needed on Controller to draw
     }
 }
 
